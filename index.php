@@ -12,6 +12,8 @@
         <li><a href="event.php">event.php</a></li>
         <li><a href="flip.php">flip.php</a></li>
 	      <li><a href="fizz-buzz.php">fizz-buzz.php</a></li>
+        <li><a href="asgn01/bike-challenge/challenge_01.php">Bike challenge</a></li>
+        <li><a href="asgn01/bird-challenge/index.php">Bird challenge</a></li>
     </ul>
 </body>
 </html>
