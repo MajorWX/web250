@@ -54,12 +54,12 @@ echo "<hr />";
 
 echo "Set weight using kg<br />";
 $trek->set_weight_kg(1);
-echo $trek->weight_kg() . "<br />";
+echo $trek->get_weight_kg() . "<br />";
 echo $trek->weight_lbs() . "<br />";
 echo "<hr />";
 
 echo "Set weight using lbs<br />";
 $trek->set_weight_lbs(2);
-echo $trek->weight_kg() . "<br />";
+echo $trek->get_weight_kg() . "<br />";
 echo $trek->weight_lbs() . "<br />";
 echo "<hr />";

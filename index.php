@@ -14,6 +14,10 @@
 	      <li><a href="fizz-buzz.php">fizz-buzz.php</a></li>
         <li><a href="asgn01/bike-challenge/challenge_01.php">Bike challenge</a></li>
         <li><a href="asgn01/bird-challenge/index.php">Bird challenge</a></li>
+        <li><a href="asgn02-inheritance/challenge-02-inerhitance.php">challenge-02-inerhitance[sic].php</a></li>
+        <li><a href="asgn02-inheritance/challenge-03-oac.php">challenge-03-oac.php</a></li>
+        <li><a href="asgn02-inheritance/inheritance.php">inheritance.php</a></li>
+        <!-- <li><a href=""></a></li> -->
     </ul>
 </body>
 </html>
