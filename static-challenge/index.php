@@ -16,13 +16,15 @@
     $bird = Bird::create();
     echo '<p>The generic song of any bird is "' . $bird->song . '".</p>';
 
-    $fly_catcher = new YellowBelliedFlyCatcher;
+    $fly_catcher = YellowBelliedFlyCatcher::create();
     echo '<p>The song of the ' . $fly_catcher->name . ' on breeding grounds is "' . $fly_catcher->song . '".</p>';
 
-    $kiwi = new Kiwi;
+    $kiwi = Kiwi::create();
     $kiwi->flying = "no";
     echo "<p>The " . $fly_catcher->name . " " . $fly_catcher->can_fly() . ".</p>";
-    echo "<p>The " . $kiwi->name . " " . $kiwi->can_fly() . ".</p>";    
+    echo "<p>The " . $kiwi->name . " " . $kiwi->can_fly() . ".</p>";  
+
+    echo '<p>Number of birds: ' . Bird::$instance_count . ' </p>';
 
 ?>
     </body>

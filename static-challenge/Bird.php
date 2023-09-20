@@ -17,8 +17,11 @@ class Bird {
     }
     
     static function create() {
-      self::$instance_count++;
-      return new Bird;
+      $class_name = get_called_class();
+      $obj = new $class_name;
+
+      Bird::$instance_count++;
+      return $obj;
     }
 }
 
