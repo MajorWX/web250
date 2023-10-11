@@ -23,6 +23,7 @@
         <li><a href="asgn04-constructors/constructor-arguments.php">asgn04-constructors/constructor-arguments.php</a></li>
         <li><a href="asgn04-constructors/autoload.php">asgn04-constructors/autoload.php</a></li>
         <li><a href="asgn05-bike-challenge/public/index.php">asgn05-bike-challenge/public/index.php</a></li>
+        <li><a href="asgn06-bird-challenge/public/index.php">asgn06-bird-challenge/public/index.php</a></li>
         <!-- <li><a href=""></a></li> -->
     </ul>
 </body>
