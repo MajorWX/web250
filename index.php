@@ -28,6 +28,7 @@
         <li><a href="asgn08-active-birds/public/index.php">asgn08-active-birds/public/index.php</a></li>
         <li><a href="asgn09-CRUD/chain_gang/public/staff/index.php">asgn09-CRUD/chain_gang/public/staff/index.php</a></li>
         <li><a href="asgn10-bird-crud/public/index.php">asgn10-bird-crud/public/index.php</a></li>
+        <li><a href="asgn11-admins/chain_gang/public/staff/index.php">asgn11-admins/chain_gang/public/staff/index.php</a></li>
         <!-- <li><a href="">WORDS</a></li> -->
         
     </ul>
